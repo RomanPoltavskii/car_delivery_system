@@ -51,11 +51,11 @@ public class Provider {
 
     @Override
     public String toString() {
-        return "Продавец{" +
+        return "Provider{" +
                 "id=" + id +
-                ", имя='" + name + '\'' +
-                ", Id Продавца=" + productId +
-                ", Id Заказа=" + orderId +
+                ", name='" + name + '\'' +
+                ", productId=" + productId +
+                ", orderId=" + orderId +
                 '}';
     }
 }

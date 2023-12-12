@@ -63,13 +63,13 @@ public class Product {
 
     @Override
     public String toString() {
-        return "Продукт{" +
+        return "Product{" +
                 "id=" + id +
-                ", Id Заказа=" + orderId +
-                ", имя='" + name + '\'' +
-                ", цена=" + price +
-                ", продавец=" + provider +
-                ", склад=" + storehouse +
+                ", orderId=" + orderId +
+                ", name='" + name + '\'' +
+                ", price=" + price +
+                ", supplier=" + provider +
+                ", warehouse=" + storehouse +
                 '}';
     }
 }

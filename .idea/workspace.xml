@@ -4,40 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="630b02f6-797c-4ea0-be97-b424ea11d9c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflection/src/main/java/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/OrderedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/ShippingAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/Storehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/console/src/main/java/ConsoleRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/src/main/java/ConsoleDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/src/main/java/InsertDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/src/main/java/org/example/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/src/main/java/org/example/Providers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/src/main/java/org/example/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonDeserializer/src/main/java/org/example/Deserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsonSerializer/src/main/java/org/example/Serialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/src/main/java/PostgreSQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/src/main/java/SQLHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/src/main/java/SQLRquests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_app/src/main/java/HttpHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_app/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_app/src/main/java/ServerContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_app/src/main/java/Servlet.java" afterDir="false" />
+    <list default="true" id="630b02f6-797c-4ea0-be97-b424ea11d9c3" name="Changes" comment="final commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actors/src/main/java/org/example/OrderedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/OrderedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actors/src/main/java/org/example/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actors/src/main/java/org/example/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actors/src/main/java/org/example/ShippingAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/ShippingAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actors/src/main/java/org/example/Storehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/actors/src/main/java/org/example/Storehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderProducts.json" beforeDir="false" afterPath="$PROJECT_DIR$/orderProducts.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +146,14 @@
       <option name="presentableId" value="Default" />
       <updated>1702307263952</updated>
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1702407965195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702407965195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>

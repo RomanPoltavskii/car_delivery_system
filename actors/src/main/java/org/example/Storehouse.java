@@ -51,11 +51,11 @@ public class Storehouse {
 
     @Override
     public String toString() {
-        return "Склад{" +
+        return "Storehouse{" +
                 "id=" + id +
-                ", адрес='" + address + '\'' +
-                ", Id Продукта=" + productId +
-                ", Id Заказа=" + orderId +
+                ", address='" + address + '\'' +
+                ", productId=" + productId +
+                ", orderId=" + orderId +
                 '}';
     }
 }

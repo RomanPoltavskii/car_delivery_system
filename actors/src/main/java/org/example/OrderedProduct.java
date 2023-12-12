@@ -76,13 +76,13 @@ public class OrderedProduct {
 
     @Override
     public String toString() {
-        return "Заказанные товары{" +
+        return "OrderedProduct{" +
                 "id=" + id +
                 ", total=" + total +
-                ", статус заказа='" + orderStatus + '\'' +
-                ", клиент=" + client +
-                ", заказы=" + products +
-                ", адрес=" + address +
+                ", orderStatus='" + orderStatus + '\'' +
+                ", customer=" + client +
+                ", products=" + products +
+                ", address=" + address +
                 '}';
     }
 }

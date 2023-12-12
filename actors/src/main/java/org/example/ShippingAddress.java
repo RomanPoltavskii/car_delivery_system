@@ -40,10 +40,10 @@ public class ShippingAddress {
 
     @Override
     public String toString() {
-        return "Адрес доставки{" +
+        return "ShippingAddress{" +
                 "id=" + id +
-                ", адрес='" + address + '\'' +
-                ", Id Заказа=" + orderId +
+                ", address='" + address + '\'' +
+                ", orderId=" + orderId +
                 '}';
     }
 }
